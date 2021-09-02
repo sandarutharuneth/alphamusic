@@ -1,9 +1,7 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
+![logo](https://i.imgur.com/bHjtIwX.png)
 
-![logo](https://repository-images.githubusercontent.com/186841818/8aa95700-7730-11e9-84be-e80f28520325)
-
-# 🤖 EvoBot (Discord Music Bot)
-> EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
+# Alpha Music (Discord Music Bot)
+> Alpha is a Discord Music Bot built with discord.js & uses Command Handler from [discordjs.guide](https://discordjs.guide)
 
 ## Requirements
 
@@ -12,7 +10,7 @@
 2.1 **(Optional)** Soundcloud Client ID **[Guide](https://github.com/zackradisic/node-soundcloud-downloader#client-id)**
 3. Node.js v14.0.0 or newer
 
-## 🚀 Getting Started
+## Getting Started
 
 If deploying to Heroku make sure to create config variables
 
@@ -24,7 +22,7 @@ npm install
 
 After installation finishes you can use `node index.js` to start the bot.
 
-## ⚙️ Configuration
+## Configuration
 
 Copy or Rename `config.json.example` to `config.json` and fill out the values:
 
@@ -65,7 +63,7 @@ Currently available locales are:
 - Vietnamese (vi)
 - Check [Contributing](#-contributing) if you wish to help add more languages!
 
-## 📝 Features & Commands
+## Features & Commands
 
 > Note: The default prefix is '/'
 
@@ -117,17 +115,15 @@ Examples: `1` or `1,2,3`
 * Command Handler from [discordjs.guide](https://discordjs.guide/)
 * Media Controls via Reactions
 
-![reactions](https://i.imgur.com/9S7Omf9.png)
+![reactions](https://i.imgur.com/LrYdr3d.png)
 
 ## 🤝 Contributing
 
-1. [Fork the repository](https://github.com/eritislami/evobot/fork)
-2. Clone your fork: `git clone https://github.com/your-username/evobot.git`
+1. [Fork the repository](https://github.com/doveoliviacameron/alphamusic/fork)
+2. Clone your fork: `git clone https://github.com/your-username/alphamusic.git`
 3. Create your feature branch: `git checkout -b my-new-feature`
 4. Commit your changes: `git commit -am 'Add some feature'`
 5. Push to the branch: `git push origin my-new-feature`
 6. Submit a pull request
 
-## 📝 Credits
-
-[@iCrawl](https://github.com/iCrawl) For the queue system used in this application which was adapted from [@iCrawl/discord-music-bot](https://github.com/iCrawl/discord-music-bot)
+## Copyright (c) ©2021 Alpha Developer Team.
